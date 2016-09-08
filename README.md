@@ -6,13 +6,13 @@ Reminder
 
 * Press `minus + shift + s` and `return` to chop/fold long lines!
 
-Show folder content: `ls -la`
+* Show folder content: `ls -la`
 
 
 Setup
 -----------
 
-See where Git is located:
+* See where Git is located:
 `which git`
 
 Get the version of Git:
