@@ -25,7 +25,7 @@ Setup
 Help
 -----------
 
-Help:
+* Help:
 `git help`
 
 
